@@ -4,18 +4,20 @@ Start your project quickly with this Gatsby Starter, integrating Tailwind CSS fo
 
 [Tailwind CSS](https://tailwindcss.com/) is a utility-first CSS framework for rapidly building custom designs.
 
-This starter uses Tailwind CSS v3.4.1 and includes a customized Tailwind configuration. It sets you up with the following:
+This starter uses Tailwind CSS v3.4.1 and includes a customised Tailwind configuration. It sets you up with the following:
 
 - `src/css/tailwind.css` where Tailwind's `base`, `components`, and `utilities` directives are injected
-- A customized `tailwind.config.js` file that extends the default theme with custom colors, spacing, font sizes, and screen sizes
+- A customised `tailwind.config.js` file that extends the default theme with custom colors, spacing, font sizes, and screen sizes
 - `prettier`
 - `gatsby-plugin-postcss` including `autoprefixer`
 - `gatsby-plugin-react-helmet`
 - `gatsby-plugin-manifest`
+- Includes a responsive nav bar, with animated hamburger dropdown
+- Custom 404 Page
 
 ## Demo Site
 
-You can view the demo site [here](https://gatsby-starter-tailwind-css.netlify.app/)
+You can view the demo site [here](https://gatsby-starter-tailwind-css-netlify.netlify.app/)
 
 ## Prerequisites
 
@@ -29,19 +31,24 @@ This will prepare your environment for developing with Gatsby and Tailwind CSS.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ProximoBinks/gatsby-starter-tailwind-css-netlify)
 
+When deploying with Netlify, use 'Build Command' ```gatsby clean && gatsby build```, and make sure that it's 'Published to' ```public```
+
 1. **Create your Gatsby site**
 
    Use the Gatsby CLI (`npm install -g gatsby-cli` if you don't have it already) to create your Gatsby site with Gatsby Starter TailwindCSS Netlify:
 
    ```bash
-   gatsby new my-project-name https://github.com/melanienolan/gatsby-starter-tailwind-css```
+   gatsby new my-project-name https://github.com/melanienolan/gatsby-starter-tailwind-css
+   ```
 
 2. **Start Developing**
-    Navigate to your project folder and start the development server:
+
+   Navigate to your project folder and start the development server:
     
     ```bash
     cd my-project-name
-    gatsby develop```
+    gatsby develop
+    ```
 
     If this doesn't work you may want to run the following commands then try again
     ```bash
@@ -49,4 +56,4 @@ This will prepare your environment for developing with Gatsby and Tailwind CSS.
     npm update
     ```
 
-Now you're all set to create your Gatsby site with Tailwind CSS, using the customized configuration, and deploy it effortlessly with Netlify!
+Now you're all set to create your Gatsby site with Tailwind CSS, using the customised configuration, and deploy it effortlessly with Netlify!
