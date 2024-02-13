@@ -38,7 +38,7 @@ const HomePage = () => {
 
         <div className="mt-10 mx-auto">
           <a
-            href="https://github.com/melanienolan/gatsby-starter-tailwind-css"
+            href="https://github.com/ProximoBinks/gatsby-starter-tailwind-css-netlify"
             className="p-4 bg-teal-500 text-white text-xs rounded shadow hover:bg-teal-400"
           >
             View on GitHub
@@ -47,8 +47,7 @@ const HomePage = () => {
 
         <div className="mt-10 flex items-center p-3 mx-2 bg-white rounded shadow-xs sm:mx-auto">
           <code id="codeToCopy" className="text-gray-600 text-xs leading-xl">
-            gatsby new my-project-name
-            https://github.com/melanienolan/gatsby-starter-tailwind-css
+            gatsby new my-project-name https://github.com/ProximoBinks/gatsby-starter-tailwind-css-netlify
           </code>
           <button
             onClick={handleCopyCode}
