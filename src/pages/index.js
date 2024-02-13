@@ -44,7 +44,7 @@ const HomePage = () => {
           </a>
         </div>
 
-        <div className="mt-10 flex items-center p-3 mx-2 bg-white rounded shadow-xs sm:mx-auto">
+        <div className="my-10 flex items-center p-3 mx-4 bg-white rounded shadow-xs sm:mx-auto">
           <code id="codeToCopy" className="text-gray-600 text-xs leading-xl">
             gatsby new my-project-name https://github.com/ProximoBinks/gatsby-starter-tailwind-css-netlify
           </code>
