@@ -1,5 +1,4 @@
 # Gatsby Starter Tailwind CSS Netlify
-
 Start your project quickly with this Gatsby Starter, integrating Tailwind CSS for styling and ready for seamless deployment with Netlify.
 
 [Tailwind CSS](https://tailwindcss.com/) is a utility-first CSS framework for rapidly building custom designs.
@@ -31,7 +30,7 @@ This will prepare your environment for developing with Gatsby and Tailwind CSS.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ProximoBinks/gatsby-starter-tailwind-css-netlify)
 
-When deploying with Netlify, use 'Build Command' ```gatsby clean && gatsby build```, and make sure that it's 'Published to' ```public```
+When deploying with Netlify, use 'Build Command' `gatsby clean && gatsby build`, and make sure that it's 'Published to' `public`
 
 1. **Create your Gatsby site**
 
@@ -57,3 +56,15 @@ When deploying with Netlify, use 'Build Command' ```gatsby clean && gatsby build
     ```
 
 Now you're all set to create your Gatsby site with Tailwind CSS, using the customised configuration, and deploy it effortlessly with Netlify!
+
+---
+## Credits
+Created by **Elliot Koh**
+
+This project is a part of my effort to simplify web development workflows and share knowledge with the community.
+
+For more projects and contributions:
+- Github: [github.com/ProximoBinks](https://github.com/ProximoBinks)
+- Contact: [elliotkoh2@gmail.com](mailto:elliotkoh2@gmail.com)
+
+&copy; 2024 Elliot Koh. All rights reserved.
