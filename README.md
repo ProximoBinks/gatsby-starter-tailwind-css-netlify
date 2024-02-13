@@ -38,7 +38,7 @@ When deploying with Netlify, use 'Build Command' ```gatsby clean && gatsby build
    Use the Gatsby CLI (`npm install -g gatsby-cli` if you don't have it already) to create your Gatsby site with Gatsby Starter TailwindCSS Netlify:
 
    ```bash
-   gatsby new my-project-name https://github.com/melanienolan/gatsby-starter-tailwind-css
+   gatsby new my-project-name https://github.com/ProximoBinks/gatsby-starter-tailwind-css-netlify
    ```
 
 2. **Start Developing**
