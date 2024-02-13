@@ -28,11 +28,7 @@ Before you begin, ensure you have the following installed:
 
 This will prepare your environment for developing with Gatsby and Tailwind CSS.
 
-## Getting Started
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ProximoBinks/gatsby-starter-tailwind-css-netlify)
-
-When deploying with Netlify, use 'Build Command' `gatsby clean && gatsby build`, and make sure that it's 'Published to' `public`
+## 🚀 Quick start
 
 1. **Create your Gatsby site**
 
@@ -56,6 +52,20 @@ When deploying with Netlify, use 'Build Command' `gatsby clean && gatsby build`,
     npm install
     npm update
     ```
+
+3.  **Open the source code and start editing!**
+
+    Your site is now running at `http://localhost:8000`!
+
+    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.com/tutorial/part-five/#introducing-graphiql)._
+
+    Open the `my-project-name` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+
+## 🚀 Quick start (Netlify)
+
+Deploy this starter with one click on [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ProximoBinks/gatsby-starter-tailwind-css-netlify)
+
+When deploying with Netlify, use 'Build Command' ```gatsby clean && gatsby build```, and make sure that it's 'Published to' ```public```
 
 Now you're all set to create your Gatsby site with Tailwind CSS, using the customised configuration, and deploy it effortlessly with Netlify!
 
