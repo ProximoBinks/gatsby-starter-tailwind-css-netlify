@@ -63,7 +63,9 @@ This will prepare your environment for developing with Gatsby and Tailwind CSS.
 
 ## 🚀 Quick start (Netlify)
 
-Deploy this starter with one click on [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ProximoBinks/gatsby-starter-tailwind-css-netlify)
+Deploy this starter with one click on [Netlify](https://www.netlify.com/)
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ProximoBinks/gatsby-starter-tailwind-css-netlify)
 
 When deploying with Netlify, use 'Build Command' ```gatsby clean && gatsby build```, and make sure that it's 'Published to' ```public```
 
