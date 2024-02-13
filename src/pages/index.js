@@ -22,11 +22,10 @@ const HomePage = () => {
         <div className="sm:flex sm:flex-row-reverse sm:items-center">
           <div className="sm:px-2">
             <h1 className="px-4 pt-5 text-2xl text-left text-teal-500 font-bold sm:text-3xl">
-              Gatsby Starter Tailwind CSS with Netlify
+              Gatsby Starter for Tailwind CSS & Netlify
             </h1>
             <p className="px-4 mt-8 text-lg text-gray-700 sm:mt-8">
-              Start your Gatsby and Tailwind CSS project and deploy to Netlify easily with this Gatsby
-              Starter
+              Kickstart your project with ease using our Gatsby Starter, designed for seamless integration with Tailwind CSS and effortless deployment on Netlify.
             </p>
           </div>
           <img
