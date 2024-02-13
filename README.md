@@ -1,4 +1,4 @@
-# Gatsby Starter Tailwind CSS Netlify
+# Gatsby Starter for Tailwind CSS & Netlify
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ProximoBinks/gatsby-starter-tailwind-css-netlify/blob/main/LICENSE)
 
 Start your project quickly with this Gatsby Starter, integrating Tailwind CSS for styling and ready for seamless deployment with Netlify.
