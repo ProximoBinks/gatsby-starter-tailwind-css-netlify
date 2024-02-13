@@ -34,14 +34,16 @@ This will prepare your environment for developing with Gatsby and Tailwind CSS.
    Use the Gatsby CLI (`npm install -g gatsby-cli` if you don't have it already) to create your Gatsby site with Gatsby Starter TailwindCSS Netlify:
 
    ```bash
-   gatsby new my-project-name https://github.com/melanienolan/gatsby-starter-tailwind-css```
+   gatsby new my-project-name https://github.com/melanienolan/gatsby-starter-tailwind-css
+   ```
 
 2. **Start Developing**
     Navigate to your project folder and start the development server:
     
     ```bash
     cd my-project-name
-    gatsby develop```
+    gatsby develop
+    ```
 
     If this doesn't work you may want to run the following commands then try again
     ```bash
