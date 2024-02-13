@@ -13,6 +13,7 @@ This starter uses Tailwind CSS v3.4.1 and includes a customised Tailwind configu
 - `gatsby-plugin-react-helmet`
 - `gatsby-plugin-manifest`
 - Includes a responsive nav bar, with animated hamburger dropdown
+- Custom 404 Page
 
 ## Demo Site
 
