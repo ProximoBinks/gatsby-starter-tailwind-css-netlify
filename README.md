@@ -15,7 +15,7 @@ This starter uses Tailwind CSS v3.4.1 and includes a customized Tailwind configu
 
 ## Demo Site
 
-You can view the demo site [here](https://gatsby-starter-tailwind-css.netlify.app/)
+You can view the demo site [here](https://gatsby-starter-tailwind-css-netlify.netlify.app/)
 
 ## Prerequisites
 
