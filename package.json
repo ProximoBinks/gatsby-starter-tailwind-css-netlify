@@ -1,0 +1,35 @@
+{
+  "name": "gatsby-starter-tailwind-css-netlify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Elliot Koh <elliotkoh2@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "gatsby": "^5.13.3",
+    "gatsby-core-utils": "^4.13.1",
+    "gatsby-plugin-manifest": "^5.13.1",
+    "gatsby-plugin-postcss": "^6.13.1",
+    "gatsby-plugin-react-helmet": "^6.13.1",
+    "hamburger-react": "^2.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35",
+    "prettier": "^2.0.5",
+    "tailwindcss": "^3.4.1"
+  },
+  "optionalDependencies": {
+    "@parcel/watcher-linux-x64-glibc": "latest"
+  }
+}
